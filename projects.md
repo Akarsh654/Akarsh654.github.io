@@ -23,11 +23,9 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+key: page-Projects
 ---
----
-title: Projects
----
+
 Hi Everyone
 <hr>
 I love working on projects and hackathons to put my skills into practice.  
