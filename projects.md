@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Projects
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -44,7 +44,6 @@ Have a look at all the exciting projects I have completed.
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Date</th>
     <th class="tg-0pky">Project </th>
     <th class="tg-0pky">Topic</th>
     <th class="tg-0pky">Link</th>
@@ -52,7 +51,6 @@ Have a look at all the exciting projects I have completed.
 </thead>
 <tbody>
    <tr>
-    <td class="tg-0pky">2020</td>
     <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
     <td class="tg-0pky">Data Science </td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/UnBDC-2020/blob/master/UnBDC_2020_Project_Report.pdf" target="_blank" rel="noopener noreferrer">PDF</a></td>
