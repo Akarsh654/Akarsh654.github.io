@@ -25,13 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
----
-title: Flash
-permalink: /about/
-layout: page
-excerpt: Hello peeps
-comments: false
----
+
 **Name** : Akrash Sharma  
 **University**: University of Alberta  
 **Degree**: Specialization in Computating Science  
