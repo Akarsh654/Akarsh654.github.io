@@ -55,6 +55,18 @@ Have a look at all the exciting projects I have completed.
     <td class="tg-0pky">Data Science </td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/UnBDC-2020/blob/master/UnBDC_2020_Project_Report.pdf" target="_blank" rel="noopener noreferrer">PDF</a></td>
   </tr>
+  <tr>
+    <td class="tg-0pky">2020</td>
+    <td class="tg-0pky">Kernel Density Estimation</td>
+    <td class="tg-0pky">Statistics </td>
+    <td class="tg-0pky"><a href="<script src="https://github.com/Akarsh654/Data-Analysis-and-Visualization/blob/master/Kernel%20Density%20Estimation%20(KDE)/Kernel%20Density%20Estimation.ipynb"></script>" target="_blank" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">2020</td>
+    <td class="tg-0pky">Facebook, Miscrosoft, Tesla Stock Analysis</td>
+    <td class="tg-0pky">Finance </td>
+    <td class="tg-0pky"><a href="<script src="https://github.com/Akarsh654/Data-Analysis-and-Visualization/blob/master/Tesla%2C%20Facebook%2C%20Microsoft%20Stock%20Analysis/Quantmod.R"></script>" target="_blank" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
   
 </tbody>
 </table>
