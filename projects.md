@@ -27,12 +27,12 @@ key: page-Projects
 ---
 
 Hi Everyone
-<hr>
+
 I love working on projects and hackathons to put my skills into practice.  
 Have a look at all the exciting projects I have completed.
 
 **My Projects**
-<hr>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
