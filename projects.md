@@ -46,8 +46,8 @@ Have a look at all the exciting projects I have completed.
   <tr>
     <th class="tg-0pky">Date</th>
     <th class="tg-0pky">Project </th>
-    <th class="tg-0pky">Area of Research</th>
-    <th class="tg-0pky">Project Link</th>
+    <th class="tg-0pky">Topic</th>
+    <th class="tg-0pky">Link</th>
   </tr>
 </thead>
 <tbody>
