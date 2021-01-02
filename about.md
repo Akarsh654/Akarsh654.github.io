@@ -25,4 +25,21 @@ titles:
   # @end locale config
 key: page-about
 ---
-Hi there!
+---
+title: Flash
+permalink: /about/
+layout: page
+excerpt: Hello peeps
+comments: false
+---
+**Name** : Akrash Sharma  
+**University**: University of Alberta  
+**Degree**: Specialization in Computating Science  
+**Year** : Sophomore  
+
+Hi everyone. I find joy in Web Design and I have a deep interest in Machine Learning, Data Science and Artificial Intelligence. Most of my work is open source and I enjoy working on projects and hackathons.  
+
+
+
+
+<img src="https://www.google.com/search?q=akrash+sharma&tbm=isch&ved=2ahUKEwj_s7jniP3tAhVCHBoKHY-IBHYQ2-cCegQIABAA&oq=akrash+sharma&gs_lcp=CgNpbWcQA1CGA1jTDWDuDmgAcAB4AIABngKIAZ4CkgEDMi0xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=tE7wX_-JEMK4aI-RkrAH&bih=722&biw=1536&rlz=1C1JZAP_enCA876CA876#imgrc=YqH4dHgWw3QgtM" width="500" height="300" />
