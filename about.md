@@ -26,12 +26,9 @@ titles:
 key: page-about
 ---
 
-**Name** : Akrash Sharma  
-**University**: University of Alberta  
-**Degree**: Specialization in Computating Science  
-**Year** : Sophomore  
+I am an Undergraduate Student at University of Alberta pursuing Specialization in Computing Science. I find joy in Web Design and I have a deep interest in Machine Learning, Data Science and Artificial Intelligence. Most of my work is open source and I enjoy working on projects and hackathons. 
 
-Hi everyone. I find joy in Web Design and I have a deep interest in Machine Learning, Data Science and Artificial Intelligence. Most of my work is open source and I enjoy working on projects and hackathons.  
+
 
 
 
