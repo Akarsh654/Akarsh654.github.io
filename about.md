@@ -35,5 +35,6 @@ Hi everyone. I find joy in Web Design and I have a deep interest in Machine Lear
 
 
 
-
-<img src="https://github.com/Akarsh654/My-Personal-Website/blob/master/public/images/akrash.jpg" width="500" height="300" />
+<p align="center">
+<img src="https://github.com/Akarsh654/My-Personal-Website/blob/master/public/images/akrash.jpg" />
+</p>
