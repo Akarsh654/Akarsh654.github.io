@@ -1,14 +1,12 @@
 ---
 title: Projects
 ---
-Hi Everyone~  
+Hi Everyone
 <hr>
 Throughout my life I have learnt to apply my skills in something which would benifit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
-<hr>
-<img src = "https://pm1.narvii.com/7306/7e48598a6b21439a5a0d1a392b76ab72517bbddfr1-1084-1084v2_hq.jpg" width = "500" height = "500">
-<hr>
-**Projects I have completed**
+
+**My Projects**
 <hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -41,4 +39,4 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 <img src = "http://globaliaconsultancy.com/wp-content/uploads/2019/02/PJ.jpg" width = "500" height = "500">  
 
--Robert
+
