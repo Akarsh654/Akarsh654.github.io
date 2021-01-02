@@ -70,6 +70,6 @@ Have a look at all the exciting projects I have completed.
 </table>
 
 
-<img src = "http://globaliaconsultancy.com/wp-content/uploads/2019/02/PJ.jpg" width = "500" height = "500">  
+<img src = "https://wp-media.petersons.com/blog/wp-content/uploads/2018/01/26100309/blur-close-up-code-computer-546819.jpg" width = "500" height = "500">  
 
 
