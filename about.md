@@ -36,4 +36,4 @@ Hi everyone. I find joy in Web Design and I have a deep interest in Machine Lear
 
 
 
-<img src="https://www.google.com/search?q=akrash+sharma&tbm=isch&ved=2ahUKEwj_s7jniP3tAhVCHBoKHY-IBHYQ2-cCegQIABAA&oq=akrash+sharma&gs_lcp=CgNpbWcQA1CGA1jTDWDuDmgAcAB4AIABngKIAZ4CkgEDMi0xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=tE7wX_-JEMK4aI-RkrAH&bih=722&biw=1536&rlz=1C1JZAP_enCA876CA876#imgrc=YqH4dHgWw3QgtM" width="500" height="300" />
+<img src="https://github.com/Akarsh654/My-Personal-Website/blob/master/public/images/akrash.jpg" width="500" height="300" />
