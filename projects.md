@@ -90,7 +90,6 @@ Have a look at all the exciting projects I have completed.
     <td class="tg-0pky">Web Development </td>
     <td class="tg-0pky"><a href="https://akarsh654.github.io/Drum-Kit/" rel="noopener noreferrer">JavaScript</a></td>
   </tr>
-    </tr>
      <tr>
     <td class="tg-0pky">Simon Game</td>
     <td class="tg-0pky">Web Development </td>
