@@ -100,15 +100,45 @@ Have a look at all the exciting projects I have completed.
     <td class="tg-0pky">Support Vector Machine </td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Support%20Vector%20Machine/Breast%20Cancer%20Classification/Breast%20Cancer%20Classification%20using%20SVM.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
   </tr>
+     <tr>
+    <td class="tg-0pky">Classifying the Iris Dataset</td>
+    <td class="tg-0pky">Support Vector Machine </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Support%20Vector%20Machine/Classifying%20the%20Iris%20Dataset/Classifying%20the%20Iris%20Dataset%20using%20SVM.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Adult Salary Class Prediction</td>
+    <td class="tg-0pky">Logistic Regression </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Logistic%20Regression/Adult%20Salary-Class%20Prediction/Adult_SalaryClass_Prediction.R" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Advertising Data</td>
+    <td class="tg-0pky">Logistic Regression </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Logistic%20Regression/Advertising%20Data/Advertising%20Data%20.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
   <tr>
     <td class="tg-0pky">Loan Payment Prediction</td>
     <td class="tg-0pky">Decision Trees and Random Forest </td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Decision%20Trees%20and%20Random%20Forests/Loan%20Payment%20Prediction/Loan%20Payment%20Prediction%20.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
   </tr>
+  <tr>
+    <td class="tg-0pky">Predicting Kyphosis</td>
+    <td class="tg-0pky">Decision Trees and Random Forest </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Decision%20Trees%20and%20Random%20Forests/Predicting%20Kyphosis%20Kaggle%20Challenge/Kyphosis%20Prediction.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
    <tr>
     <td class="tg-0pky">Predicting if a University is public or private</td>
     <td class="tg-0pky">K Means CLustering </td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/K%20Means%20Clustering/Predicting%20if%20a%20university%20is%20Public%20or%20Private/Predicting%20if%20a%20university%20is%20Private%20or%20Public.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">USA Housing Prices Prediction</td>
+    <td class="tg-0pky">Linear Regression </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Linear%20Regression/USA%20housing%20prices%20prediction/USA%20Housing%20Prices%20Prediction.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Secondary School Student Performance Analysis</td>
+    <td class="tg-0pky">Linear Regression </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Linear%20Regression/Student%20Perfomance%20Analysis/linearreg.R" rel="noopener noreferrer">Jupyter Notebook</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">CIFAR 10 Classification</td>
@@ -119,6 +149,11 @@ Have a look at all the exciting projects I have completed.
     <td class="tg-0pky">Mortgage Calculator</td>
     <td class="tg-0pky">Object Oriented Programming </td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/Java-Projects/blob/master/Mortgage%20Calculator/MortgageCalculator.java" rel="noopener noreferrer">Java Code</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Sending text messages using Python</td>
+    <td class="tg-0pky">SMS API </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/SMS-using-python/blob/master/Send%20SMS%20using%20Python/textmessage.py">Python</a></td>
   </tr>
   
 </tbody>
