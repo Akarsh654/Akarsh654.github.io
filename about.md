@@ -1,10 +1,7 @@
 ---
 layout: article
 titles: 
-article_header:
-  type: cover
-  image:
-    src: https://i.ibb.co/k3ZqBk4/akrash.jpg
+
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
