@@ -1,6 +1,10 @@
 ---
 layout: article
 titles:
+article_header:
+  type: cover
+  image:
+    src: https://wp-media.petersons.com/blog/wp-content/uploads/2018/01/26100309/blur-close-up-code-computer-546819.jpg
   # @start locale config
   en      : &EN       Projects
   en-GB   : *EN
