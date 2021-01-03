@@ -162,6 +162,6 @@ Have a look at all the exciting projects I have completed.
 </table>
 
 
-<img src = "https://wp-media.petersons.com/blog/wp-content/uploads/2018/01/26100309/blur-close-up-code-computer-546819.jpg" width = "500" height = "500">  
+
 
 
