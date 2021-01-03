@@ -30,8 +30,6 @@ article_header:
 key: page-Projects
 ---
 
-Hi Everyone
-
 I love working on projects and hackathons to put my skills into practice.  
 Have a look at all the exciting projects I have completed.
 
