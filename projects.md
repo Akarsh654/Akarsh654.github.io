@@ -52,6 +52,11 @@ Have a look at all the exciting projects I have completed.
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td class="tg-0pky">Handwritten Digit Recognition</td>
+    <td class="tg-0pky">Neural Networks </td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Deep-Learning-Projects/blob/main/Neural%20Networks/Handwritten%20Digit%20Recognition/Handwritten%20Digit%20Recognition.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
+  </tr>
    <tr>
     <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
     <td class="tg-0pky">Linear Regression </td>
@@ -145,7 +150,7 @@ Have a look at all the exciting projects I have completed.
   <tr>
     <td class="tg-0pky">CIFAR 10 Classification</td>
     <td class="tg-0pky">Neural Networks </td>
-    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Machine-Learning-Projects/blob/master/Nerual%20Networks/CIFAR-10%20Classification/CIFAR10%20Classification.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/Deep-Learning-Projects/blob/main/Neural%20Networks/CIFAR-10%20Image%20Classification/CIFAR10%20Classification.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Mortgage Calculator</td>
