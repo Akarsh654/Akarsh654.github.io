@@ -20,7 +20,7 @@ The jupyternotebook, histograms and graphs are attached below and here is the li
 <img src="https://i.ibb.co/T425DkX/accuracy-and-loss.png" alt="accuracy-and-loss" border="0">
 <hr>
 **Main Graph**
-<img src="https://i.ibb.co/JBn956W/graph-run-512-DO-64-LR0.png" alt="graph-run-512-DO-64-LR0" border="0">
+<img src="https://i.ibb.co/JBn956W/graph-run-512-DO-64-LR0.png" alt="graph-run-512-DO-64-LR0" border="0" height=500px>
 <hr>
 **Histograms for all the layers**
 <img src="https://i.ibb.co/1TL2wQ2/layer-1-histogram.png" alt="layer-1-histogram" border="0">
