@@ -24,15 +24,15 @@ For every invalid user input throughout the program, the program displays an err
 * If the user selects option 3 they logout
 
 The task menu options include:
-                    \t \t \t 1 - Post a question
-                    \t \t \t 2 - Search for posts
-                    \t \t \t 3 - Post action-Answer
-                    \t \t \t 4 - Post action-Vote
-                    \t \t \t 5 - Post action-Mark as the accepted
-                    \t \t \t 6 - Post action-Give a badge
-                    \t \t \t 7 - Post action-Add a tag
-                    \t \t \t 8 - Post Action-Edit
-                    \t \t \t 9 - Logout
+1 - Post a question
+2 - Search for posts
+ 3 - Post action-Answer
+4 - Post action-Vote
+5 - Post action-Mark as the accepted
+6 - Post action-Give a badge
+7 - Post action-Add a tag
+8 - Post Action-Edit
+9 - Logout
 <hr>
 
 [MongoDB Project](https://github.com/Akarsh654/SQLite-and-MongoDB-Projects/tree/main/MiniProject2%20(MongoDB)):
@@ -51,13 +51,12 @@ Then the menu options are displayed. The task menu contains 6 options, one for e
 If the user selects exit at any point in the program then a goodbye message is displayed and the program is terminated.
 
 The task menu options include:
-                \t \t \t Select an option to perform the following task - 
-                \t \t \t 1 - Post a question
-                \t \t \t 2 - Search for questions
-                \t \t \t 3 - Question action-Answer
-                \t \t \t 4 - Question action- List Answers
-                \t \t \t 5 - Post action-Vote
-                \t \t \t 6 - Exit
+1 - Post a question
+2 - Search for questions
+3 - Question action-Answer
+4 - Question action- List Answers
+5 - Post action-Vote
+6 - Exit
 
 
 ### SQLite Project
