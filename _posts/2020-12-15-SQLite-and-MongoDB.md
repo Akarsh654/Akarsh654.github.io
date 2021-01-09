@@ -11,11 +11,11 @@ I enjoyed this course and learnt a lot about both SQL and NoSQL Databases. For t
 <hr>
 
 [SQLite Project](https://github.com/Akarsh654/SQLite-and-MongoDB-Projects/tree/main/MiniProject1%20(SQLite)):
-To run the project the user can type python3 miniproj1.py -i filename.db on their command line where filename.db is the name of the database supplied.
+To run the project the user can type python3 miniproj1.py -i filename.db on their command line where filename.db is the name of the database supplied.  
 The system begins with a login screen that prompts the user to select and option from:            
 1 - Sign up  
 2 - Login  
-3 – Logout 
+3 – Logout  
 The user must type the number 1 or 2 or 3 to select an action.   
 For every invalid user input throughout the program, the program displays an error message and prompts the user to enter a valid input.   
  
