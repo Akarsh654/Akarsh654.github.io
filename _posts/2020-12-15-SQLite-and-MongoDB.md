@@ -26,13 +26,14 @@ For every invalid user input throughout the program, the program displays an err
 The task menu options include:
 1 - Post a question
 2 - Search for posts
- 3 - Post action-Answer
+3 - Post action-Answer
 4 - Post action-Vote
 5 - Post action-Mark as the accepted
 6 - Post action-Give a badge
 7 - Post action-Add a tag
 8 - Post Action-Edit
 9 - Logout
+
 <hr>
 
 [MongoDB Project](https://github.com/Akarsh654/SQLite-and-MongoDB-Projects/tree/main/MiniProject2%20(MongoDB)):
