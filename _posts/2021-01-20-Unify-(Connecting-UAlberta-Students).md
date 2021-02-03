@@ -5,7 +5,7 @@ tags: [JavaScript,MongoDB,HTML,CSS,NodeJS]
 ---
 
 <hr>
-This January I took part in the HackED 2021, Alberta's Largest Student Run Hackathon. I worked in a team of 4 with [Tanyaradzwa Gozhora](https://devpost.com/TanyaradzwaGozhora), [Abeer Waheed](https://devpost.com/amir-waheed) and [David Jacinth](https://devpost.com/davidjacinth).   
+This January I took part in the [HackED](https://hacked.compeclub.com/) 2021, Alberta's Largest Student Run Hackathon. I worked in a team of 4 with [Tanyaradzwa Gozhora](https://devpost.com/TanyaradzwaGozhora), [Abeer Waheed](https://devpost.com/amir-waheed) and [David Jacinth](https://devpost.com/davidjacinth).   
 It is evident that due to online learning, university students are unable to connect with their peers in their classes as much. This is why my friends and I decided to design   
 a website whereby UAlberta students can fill in their discord usernames and the courses they are taking. Then they will be mathched with the top 5 students taking similar courses  
 as them and they shall be granted their discord handles. This way students in similar classes can make new friends online.   
