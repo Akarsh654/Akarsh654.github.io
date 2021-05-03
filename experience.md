@@ -27,11 +27,11 @@ titles:
 key: page-experience
 ---
 
-**Leadership**
+<h1> Leadership </h1>
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg"/>
+    <img class="image image--sm" src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -50,10 +50,10 @@ key: page-experience
   </div>
 </div>
 
-**Research**
+<h1> Research </h1>
 <div class="item">
   <div class="item__image">
-    <img class="image image--lg" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png"/>
+    <img class="image image--sm" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
