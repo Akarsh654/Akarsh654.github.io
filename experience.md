@@ -118,7 +118,7 @@ key: page-experience
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNI1hmj4_yPCO9mGuDiaT2AKYECTUWbuyHy_vXApnXLoTlPARCTQGvgutZ-b0e4fPKQ&usqp=CAU" width="400" height="300"/></td>
+            <td><img src="https://pbs.twimg.com/profile_images/686783292322926592/kf4ULoYf_400x400.png" width="400" height="300"/></td>
             <td>
                 <h1>Tour Shuttler at Science Fundamentals</h1>
                 <p><em><b>Feb 2020</b></em></p>
