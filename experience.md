@@ -34,7 +34,7 @@ key: page-experience
         <tr>
             <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/></td>
             <td>
-                <h1>Akarsh Sharma</h1>
+                <h1>Vice President</h1>
                 <p><em><b>Undergraduate Student</b></em></p>
                 <p><em>Department of Computing Science</em></p>
                 <p>I am an undergraduate student at University of Alberta.</p>
