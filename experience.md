@@ -62,7 +62,6 @@ key: page-experience
                 <li> Algorithmic Design</li>
                 <li> Integer linear programming using CPlex</li>
                 <li> Numerical Experiments</li>
-                <li> App Development</li>
                 </ul>
             </td>
         </tr>
