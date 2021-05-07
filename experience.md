@@ -71,26 +71,3 @@ key: page-experience
         </tr>
  </table>
 
-
-
-
-<div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>Research Assistant</h4>
-    </div>
-    <div class="item__description">
-      <p> Online shopping with discounts <p>
-      <p>Roles and Responsibilites: 
-      <ul>
-      <li> Integer linear programming using CPlex </li>
-      <li>Numerical experiments</li>
-      </ul>
-      </p>
-    </div>
-  </div>
-</div>
-
