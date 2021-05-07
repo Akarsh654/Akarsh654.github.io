@@ -36,7 +36,7 @@ key: page-experience
   <div class="item__content">
     <div class="item__header">
       <h4>Vice President</h4>
-   
+    </div>
       <p>Roles and Responsibilites: 
       <ul>
       <li> Organized Club meetings, activites and events</li>
