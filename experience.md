@@ -38,19 +38,15 @@ key: page-experience
                 <p><em><b>May 2021 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li> Data Collection and Analysis</li>
-                <li> Algorithmic Design</li>
-                <li> Integer linear programming using CPlex</li>
-                <li> Numerical Experiments</li>
-                <li> App Development</li>
+                <li> Organized Club meetings, activites and events</li>
+                <li>Held kaggle competitions, distinguished speaker sessions and hackathons</li>
+                <li>Connected members with opportunities for growth and learning</li>
+                <li>Elected Member of Board</li>
                 </ul>
             </td>
         </tr>
  </table>
  
- 
-
-
 
 <h1> Research </h1>
 
@@ -62,10 +58,11 @@ key: page-experience
                 <p><em><b>May 2020 - May 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li> Organized Club meetings, activites and events</li>
-                <li>Held kaggle competitions, distinguished speaker sessions and hackathons</li>
-                <li>Connected members with opportunities for growth and learning</li>
-                <li>Elected Member of Board</li>
+                <li> Data Collection and Analysis</li>
+                <li> Algorithmic Design</li>
+                <li> Integer linear programming using CPlex</li>
+                <li> Numerical Experiments</li>
+                <li> App Development</li>
                 </ul>
             </td>
         </tr>
