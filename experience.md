@@ -50,7 +50,7 @@ key: page-experience
 
 <h1> Research </h1>
 
-<table>
+<table cellspacing="20">
         <tr>
             <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
             <td>
@@ -68,7 +68,7 @@ key: page-experience
         </tr>
  </table>
 
-<table >
+<table cellspacing="20">
         <tr>
             <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
             <td>
