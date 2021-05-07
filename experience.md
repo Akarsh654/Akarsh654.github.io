@@ -83,3 +83,49 @@ key: page-experience
         </tr>
  </table>
 
+
+<h1> Volunteering </h1>
+
+<table cellspacing="20">
+        <tr>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsTIP1BYe2Ar4MWB0nwVmKx_eYiqHVTiyGzx2W_uNzKk_cdhvH2CsFLk6ZS-j5Gul9lQ&usqp=CAU" width="400" height="300"/></td>
+            <td>
+                <h1>Coursera Beta Tester</h1>
+                <p><em><b>Oct 2020 - Present</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Reviewed Data Science Courses before they are published and provided feedback to instructors </li>
+                <li> Improved efficiency of courses by reporting errors and providing ways to fix them </li>  
+                </ul>
+            </td>
+        </tr>
+ </table>
+
+<table cellspacing="20">
+        <tr>
+            <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
+            <td>
+                <h1>Service Learning Volunteer</h1>
+                <p><em><b>Dec 2019</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Volunteered for 7 days at various nonprofit organizations including Mustard Seed and Edmonton Food Bank</li>
+                <li> Cooked and served food at Operation Friendship's Senior Society and Hope mission for more than 300 people  </li>
+                </ul>
+            </td>
+        </tr>
+ </table>
+
+<table cellspacing="20">
+        <tr>
+            <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
+            <td>
+                <h1>Tour Shuttler at Science Fundamentals</h1>
+                <p><em><b>Feb 2020</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Taught people how to design 3 models on a computer and print them using a 3D printer</li>
+                </ul>
+            </td>
+        </tr>
+ </table>
