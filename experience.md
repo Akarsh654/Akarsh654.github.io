@@ -35,9 +35,13 @@ key: page-experience
             <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/></td>
             <td>
                 <h1>Vice President</h1>
-                <p><em><b>Undergraduate Student</b></em></p>
-                <p><em>Department of Computing Science</em></p>
-                <p>I am an undergraduate student at University of Alberta.</p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Organized Club meetings, activites and events</li>
+                <li>Held kaggle competitions, distinguished speaker sessions and hackathons</li>
+                <li>Connected members with opportunities for growth and learning</li>
+                <li>Elected Member of Board</li>
+                </ul>
             </td>
         </tr>
  </table>
