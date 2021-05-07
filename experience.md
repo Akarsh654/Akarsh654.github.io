@@ -68,3 +68,18 @@ key: page-experience
         </tr>
  </table>
 
+<table cellspacing="20">
+        <tr>
+            <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
+            <td>
+                <h1>Undergraduate Spectrum Peer Reviewer</h1>
+                <p><em><b>Dec 2020 - Present</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Reviewed articles to be published in the Spectrum Journal</li>
+                <li> Provided constructive feedback to authors on how to improve their submissions </li>
+                </ul>
+            </td>
+        </tr>
+ </table>
+
