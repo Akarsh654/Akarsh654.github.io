@@ -35,6 +35,31 @@ key: page-experience
             <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/></td>
             <td>
                 <h1>Vice President</h1>
+                <p><em><b>May 2021 - Present</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Data Collection and Analysis</li>
+                <li> Algorithmic Design</li>
+                <li> Integer linear programming using CPlex</li>
+                <li> Numerical Experiments</li>
+                <li> App Development</li>
+                </ul>
+            </td>
+        </tr>
+ </table>
+ 
+ 
+
+
+
+<h1> Research </h1>
+
+<table cellspacing="20">
+        <tr>
+            <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
+            <td>
+                <h1>Research Assistant</h1>
+                <p><em><b>May 2020 - May 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Organized Club meetings, activites and events</li>
@@ -46,30 +71,9 @@ key: page-experience
         </tr>
  </table>
 
-<div class="item">
-  <div class="item__image">
-    <img class="image image--sm" style="float: right;" src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>Vice President</h4>
-    </div>
-    <div class="item__description">
-      <p>Roles and Responsibilites: 
-      <ul>
-      <li> Organized Club meetings, activites and events</li>
-      <li>Held kaggle competitions, distinguished speaker sessions and hackathons</li>
-      <li>Connected members with opportunities for growth and learning</li>
-      <li>Elected Member of Board</li>
-      </ul>
-      </p>
-    </div>
-   </div>
-  </div>
-  
-</div>
 
-<h1> Research </h1>
+
+
 <div class="item">
   <div class="item__image">
     <img class="image image--sm" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/>
