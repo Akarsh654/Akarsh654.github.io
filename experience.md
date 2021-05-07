@@ -32,7 +32,7 @@ key: page-experience
 <div class="item">
   <div class="item__image">
     <img class="image image--sm" style="float: right;" src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/>
-  </div>
+  
   <div class="item__content">
     <div class="item__header">
       <h4>Vice President</h4>
@@ -46,6 +46,7 @@ key: page-experience
       </ul>
       </p>
     </div>
+  </div>
   </div>
 </div>
 
