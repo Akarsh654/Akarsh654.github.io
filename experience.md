@@ -120,7 +120,7 @@ key: page-experience
         <tr>
             <td><img src="https://pbs.twimg.com/profile_images/686783292322926592/kf4ULoYf_400x400.png" width="400" height="300"/></td>
             <td>
-                <h1>Tour Shuttler at Science Fundamentals</h1>
+                <h1>Tour Shuttler</h1>
                 <p><em><b>Feb 2020</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
