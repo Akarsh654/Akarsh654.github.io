@@ -50,7 +50,7 @@ key: page-experience
 
 <h1> Research </h1>
 
-<table cellspacing="20">
+<table>
         <tr>
             <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
             <td>
