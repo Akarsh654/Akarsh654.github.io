@@ -118,7 +118,7 @@ key: page-experience
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuNI1hmj4_yPCO9mGuDiaT2AKYECTUWbuyHy_vXApnXLoTlPARCTQGvgutZ-b0e4fPKQ&usqp=CAU" width="400" height="300"/></td>
             <td>
                 <h1>Tour Shuttler at Science Fundamentals</h1>
                 <p><em><b>Feb 2020</b></em></p>
