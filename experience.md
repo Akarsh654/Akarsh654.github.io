@@ -3,7 +3,7 @@ layout: article
 titles: 
 
   # @start locale config
-  en      : &EN       About
+  en      : &EN       Experience
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
