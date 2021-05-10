@@ -27,7 +27,7 @@ titles:
 key: page-experience
 ---
 
-<h1> Leadership </h1>
+<h2> Leadership </h2>
 
 
 <table cellspacing="20">
@@ -48,7 +48,7 @@ key: page-experience
  </table>
  
 
-<h1> Research </h1>
+<h2> Research </h2>
 
 <table cellspacing="20">
         <tr>
@@ -83,7 +83,7 @@ key: page-experience
  </table>
 
 
-<h1> Volunteering </h1>
+<h2> Volunteering </h2>
 
 <table cellspacing="20">
         <tr>
