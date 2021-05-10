@@ -34,7 +34,7 @@ key: page-experience
         <tr>
             <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/></td>
             <td>
-                <h1>Vice President</h1>
+                <h3>Vice President</h3>
                 <p><em><b>May 2021 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -54,7 +54,7 @@ key: page-experience
         <tr>
             <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
             <td>
-                <h1>Research Assistant</h1>
+                <h3>Research Assistant</h3>
                 <p><em><b>May 2020 - May 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -71,7 +71,7 @@ key: page-experience
         <tr>
             <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
             <td>
-                <h1>Undergraduate Spectrum Peer Reviewer</h1>
+                <h3>Undergraduate Spectrum Peer Reviewer</h3>
                 <p><em><b>Dec 2020 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -89,7 +89,7 @@ key: page-experience
         <tr>
             <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsTIP1BYe2Ar4MWB0nwVmKx_eYiqHVTiyGzx2W_uNzKk_cdhvH2CsFLk6ZS-j5Gul9lQ&usqp=CAU" width="400" height="300"/></td>
             <td>
-                <h1>Coursera Beta Tester</h1>
+                <h3>Coursera Beta Tester</h3>
                 <p><em><b>Oct 2020 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -104,7 +104,7 @@ key: page-experience
         <tr>
             <td><img src="https://pbs.twimg.com/media/DqtIUJ0X4AImDQb.jpg" width="400" height="300"/></td>
             <td>
-                <h1>Service Learning Volunteer</h1>
+                <h3>Service Learning Volunteer</h3>
                 <p><em><b>Dec 2019</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -119,7 +119,7 @@ key: page-experience
         <tr>
             <td><img src="https://pbs.twimg.com/profile_images/686783292322926592/kf4ULoYf_400x400.png" width="400" height="300"/></td>
             <td>
-                <h1>Tour Shuttler</h1>
+                <h3>Tour Shuttler</h3>
                 <p><em><b>Feb 2020</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
