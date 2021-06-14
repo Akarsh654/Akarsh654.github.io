@@ -27,6 +27,25 @@ titles:
 key: page-experience
 ---
 
+<h2> Internships </h2>
+
+
+<table cellspacing="20">
+        <tr>
+            <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
+            <td>
+                <h3>Data Analytics Intern</h3>
+                <p><em><b>May 2021 - Present</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Data Analysis and Data Visualization </li>
+                <li> Identify Top Prospects and build Donor Model </li>
+                <li> Correlation Analysis to identify Donor Cycle </li>
+                </ul>
+            </td>
+        </tr>
+ </table>
+ 
 <h2> Leadership </h2>
 
 
