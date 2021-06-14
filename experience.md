@@ -54,7 +54,7 @@ key: page-experience
             <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/></td>
             <td>
                 <h3>Vice President</h3>
-                <p><em><b>May 2021 - Present</b></em></p>
+                <p><em><b>May 2020 - May 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Organized Club meetings, activites and events</li>
