@@ -74,7 +74,7 @@ key: page-experience
             <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
             <td>
                 <h3>Research Assistant</h3>
-                <p><em><b>May 2020 - May 2021</b></em></p>
+                <p><em><b>May 2021 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Data Collection and Analysis</li>
