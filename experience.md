@@ -48,6 +48,19 @@ key: page-experience
  
 <h2> Leadership </h2>
 
+<table cellspacing="20">
+        <tr>
+            <td><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png" width="400" height="300"/></td>
+            <td>
+                <h3>Student Lead (President)</h3>
+                <p><em><b>June 2021 - Current</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li>Identified local organizations to collaborate with during the academic year  </li>
+                </ul>
+            </td>
+        </tr>
+ </table>
 
 <table cellspacing="20">
         <tr>
