@@ -14,7 +14,7 @@ It is not just limited to getting a visual output, but the algorithms will be op
 This project aims to create a better understanding of the working of graph algorithms, improve the computation time and optimising the algorithms.  
 It could be used by analysts as well as students and teachers, as a teaching aid.
 
-The full code can be found on my (GitHub repository)[https://github.com/Akarsh654/Graph-Algorithms-Package] and the package can be viewed on (Pypi)[https://pypi.org/project/graph-algo-vis/0.2/#description]  
+The full code can be found on my [GitHub repository](https://github.com/Akarsh654/Graph-Algorithms-Package) and the package can be viewed on [Pypi](https://pypi.org/project/graph-algo-vis/0.2/#description)    
 
 To run the package: pip install graph-algo-vis  
 <hr>
