@@ -53,6 +53,11 @@ Have a look at all the exciting projects I have completed.
 </thead>
 <tbody>
     <tr>
+    <td class="tg-0pky">Graph Algorithms Visualization Package</td>
+    <td class="tg-0pky">Algorithms </td>
+    <td class="tg-0pky"><a href="https://pypi.org/project/graph-algo-vis/0.2/#description" rel="noopener noreferrer">Pip Package</a></td>
+  </tr>
+    <tr>
     <td class="tg-0pky">Handwritten Digit Recognition</td>
     <td class="tg-0pky">Neural Networks </td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/Deep-Learning-Projects/blob/main/Neural%20Networks/Handwritten%20Digit%20Recognition/Handwritten%20Digit%20Recognition.ipynb" rel="noopener noreferrer">Jupyter Notebook</a></td>
