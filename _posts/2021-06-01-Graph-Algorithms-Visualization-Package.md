@@ -6,8 +6,7 @@ tags: [Python,Graph,Algorithms]
 
 <hr>
 After learning Graph Algorithms in CMPUT 204 I was excited to implement them and I decided to create a Python Package which aims to create visual outputs for popular Graph Algorithms..  
-So far the package includes Breadth First Search (BFS), Depth First Search (DFS) and Topological Sort. I will continue implementing and adding more algorithms like Prim's and Kruskal's   
-algorithm for MST, A* Search etc.  
+So far the package includes Breadth First Search (BFS), Depth First Search (DFS) and Topological Sort. I will continue implementing and adding more algorithms like Prim's and Kruskal's algorithm for MST, A* Search etc.  
 
 
 It is not just limited to getting a visual output, but the algorithms will be optimised by using heuristics for non-polynomial time algorithms.   
