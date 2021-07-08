@@ -1,6 +1,6 @@
 ---
 title: Graph Algorithms Visualization Package
-date: 2020-12-15
+date: 2021-06-01
 tags: [Python,Graph,Algorithms]
 ---
 
