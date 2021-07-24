@@ -38,9 +38,11 @@ key: page-experience
                 <p><em><b>May 2021 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li> Data Analysis and Data Visualization </li>
-                <li> Identify Top Prospects and build Donor Model </li>
-                <li> Correlation Analysis to identify Donor Cycle </li>
+                <li> Conducted Data Analysis and Visualizations using Python to create First Interaction Area of Donors </li>
+                <li> Used Descriptive Analysis and Correlation Analysis to help answer questions about Donor Engagement   </li>
+                <li> Built advanced Tableau dashboards with quick/context/global filters, parameters and calculated fields to track 
+and improve Donor Retention and Donor Giving Levels </li>
+                <li> Used Predictive Modelling to help identify top prospects and built Donor Model </li>
                 </ul>
             </td>
         </tr>
@@ -92,8 +94,8 @@ key: page-experience
                 <ul>
                 <li> Data Collection and Analysis</li>
                 <li> Algorithmic Design</li>
-                <li> Integer linear programming using CPlex</li>
-                <li> Numerical Experiments</li>
+                <li> Designed linear and quadratic objective constraints from store discount policies</li>
+                <li> Used Integer Linear Programming in CPlex to obtain the optimal solution</li>
                 </ul>
             </td>
         </tr>
