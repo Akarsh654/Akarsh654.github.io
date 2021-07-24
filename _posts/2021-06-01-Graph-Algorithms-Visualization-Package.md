@@ -5,11 +5,13 @@ tags: [Python,Graph,Algorithms]
 ---
 
 <hr>
-After learning Graph Algorithms in CMPUT 204 I was excited to implement them and I decided to create a Python Package which aims to create visual outputs for popular Graph Algorithms. The package takes an adjacency matrix as an input from the user then prints the graph where the nodes coloured in Red represent the edges traversed by the Algorithm.   
-<br>
+After learning Graph Algorithms in CMPUT 204 I was excited to implement them and I decided to create a Python Package which aims to create visual outputs for popular Graph Algorithms. The package takes an adjacency matrix as an input from the user then prints the graph where the nodes coloured in Red represent the edges traversed by the Algorithm.     
+        
+        
 So far the package includes Breadth First Search (BFS), Depth First Search (DFS), Topological Sort, Prim's and Kruskal's algorithm for MST. I will continue implementing and adding more algorithms like A* Search etc.  
 
-
+    
+    
 It is not just limited to getting a visual output, but the algorithms will be optimised by using heuristics for non-polynomial time algorithms.   
 This project aims to create a better understanding of the working of graph algorithms, improve the computation time and optimising the algorithms.  
 It could be used by analysts as well as students and teachers, as a teaching aid.
