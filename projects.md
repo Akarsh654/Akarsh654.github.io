@@ -33,6 +33,11 @@ key: page-Projects
 I love working on projects and hackathons to put my skills into practice.  
 Have a look at all the exciting projects I have completed.
 
+<p align="center">
+<img src="https://allhacked.com/up/2019/03/hello-world.gif">
+</p>
+
+
 **My Projects**
 
 <style type="text/css">
