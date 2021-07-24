@@ -19,6 +19,18 @@ The full code can be found on my [GitHub repository](https://github.com/Akarsh65
 To run the package: pip install graph-algo-vis    
 <hr>
 
+## Sample input file   
+
+```
+4
+0 5 10 5
+0 0 5 0
+0 10 0 0
+0 0 10 0
+0
+
+```    
+
 ### Sample output for DFS:   
 ![1](https://i.ibb.co/mXPTWQK/DFS-Result.png)   
 
@@ -27,7 +39,8 @@ To run the package: pip install graph-algo-vis
 
 ### Code for BFS  
 <script src="https://gist.github.com/Akarsh654/7a2f08f2d039803c443af24f8fbfcd41.js"></script>
-<hr>    
+<hr>   
+
 ### Code for Topological Sort  
 <script src="https://gist.github.com/Akarsh654/d31d1f4787df711aed59d320ba1ded77.js"></script>
 <hr>  
