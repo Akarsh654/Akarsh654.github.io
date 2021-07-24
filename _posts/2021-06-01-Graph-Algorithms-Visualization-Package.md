@@ -21,7 +21,7 @@ The full code can be found on my [GitHub repository](https://github.com/Akarsh65
 To run the package: pip install graph-algo-vis    
 <hr>
 
-## Sample input file   
+### Sample input file   
 
 ```
 4
