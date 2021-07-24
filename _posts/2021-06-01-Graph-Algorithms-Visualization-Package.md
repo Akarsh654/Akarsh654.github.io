@@ -32,16 +32,16 @@ To run the package: pip install graph-algo-vis
 0
 
 ```    
-
+<hr>
 ### Sample output for DFS:   
 ![1](https://i.ibb.co/mXPTWQK/DFS-Result.png)   
 
 ### Sample output for Topological Sort:  
 ![2](https://i.ibb.co/Rz4qPMv/Graph-after-Topological-Sort.png)      
-
+<hr>
 ### Code for BFS  
 <script src="https://gist.github.com/Akarsh654/7a2f08f2d039803c443af24f8fbfcd41.js"></script>
-<hr>   
+   
 
 ### Code for Topological Sort  
 <script src="https://gist.github.com/Akarsh654/d31d1f4787df711aed59d320ba1ded77.js"></script>
