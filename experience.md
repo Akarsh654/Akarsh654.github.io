@@ -35,6 +35,7 @@ key: page-experience
             <td><img src="https://obesitycanada.ca/wp-content/uploads/2018/03/U-of-A-e1558964736216.png" width="400" height="300"/></td>
             <td>
                 <h3>Data Analytics Intern</h3>
+                <h2>University of Alberta</h2>
                 <p><em><b>May 2021 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -55,6 +56,7 @@ and improve Donor Retention and Donor Giving Levels </li>
             <td><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png" width="400" height="300"/></td>
             <td>
                 <h3>Student Lead (President)</h3>
+                <h2> Google Developer Student Club (DSC)</h2>
                 <p><em><b>June 2021 - Current</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -69,6 +71,7 @@ and improve Donor Retention and Donor Giving Levels </li>
             <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400" height="300"/></td>
             <td>
                 <h3>Vice President</h3>
+                <h2>Association for Computing Machinery (ACM) Student Chapter</h2>
                 <p><em><b>May 2020 - May 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -89,6 +92,7 @@ and improve Donor Retention and Donor Giving Levels </li>
             <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
             <td>
                 <h3>Research Assistant</h3>
+                <h2>University of Alberta</h2>
                 <p><em><b>May 2021 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
