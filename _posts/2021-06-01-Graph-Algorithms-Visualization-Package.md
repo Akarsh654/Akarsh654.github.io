@@ -5,8 +5,9 @@ tags: [Python,Graph,Algorithms]
 ---
 
 <hr>
-After learning Graph Algorithms in CMPUT 204 I was excited to implement them and I decided to create a Python Package which aims to create visual outputs for popular Graph Algorithms..  
-So far the package includes Breadth First Search (BFS), Depth First Search (DFS) and Topological Sort. I will continue implementing and adding more algorithms like Prim's and Kruskal's algorithm for MST, A* Search etc.  
+After learning Graph Algorithms in CMPUT 204 I was excited to implement them and I decided to create a Python Package which aims to create visual outputs for popular Graph Algorithms. The package takes an adjacency matrix as an input from the user then prints the graph where the nodes coloured in Red represent the edges traversed by the Algorithm.   
+
+So far the package includes Breadth First Search (BFS), Depth First Search (DFS), Topological Sort, Prim's and Kruskal's algorithm for MST. I will continue implementing and adding more algorithms like A* Search etc.  
 
 
 It is not just limited to getting a visual output, but the algorithms will be optimised by using heuristics for non-polynomial time algorithms.   
@@ -15,7 +16,7 @@ It could be used by analysts as well as students and teachers, as a teaching aid
 
 The full code can be found on my [GitHub repository](https://github.com/Akarsh654/Graph-Algorithms-Package) and the package can be viewed on [Pypi](https://pypi.org/project/graph-algo-vis/0.2/#description)    
 
-To run the package: pip install graph-algo-vis  
+To run the package: pip install graph-algo-vis    
 <hr>
 
 ### Sample output for DFS:   
