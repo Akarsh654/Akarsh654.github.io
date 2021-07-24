@@ -32,7 +32,7 @@ key: page-experience
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://www.ualberta.ca/media-library/ualberta/homepage/university-logo.png" width="400" height="300"/></td>
+            <td><img src="https://obesitycanada.ca/wp-content/uploads/2018/03/U-of-A-e1558964736216.png" width="400" height="300"/></td>
             <td>
                 <h3>Data Analytics Intern</h3>
                 <p><em><b>May 2021 - Present</b></em></p>
