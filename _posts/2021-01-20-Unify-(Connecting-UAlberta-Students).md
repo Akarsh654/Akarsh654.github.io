@@ -12,11 +12,11 @@ a website whereby UAlberta students can fill in their discord usernames and the 
 
 For this project we used HTML, CSS and Javascript for the frontend and NodeJS for the backend and MongoDB to handle the database. We had to come up with an algorithm that can match a student with 5 others instantly when they fill in the form. The search and matching was optimized by creating MongoDB indexes and the form to be filled was designed in a way that students can add upto 6 courses. We used Google Authentication to ensure that only students with ualberta email addresses can signup and fill the form.   
      
-<li>
-The project details can be viewed at [Devpost](https://devpost.com/software/unify-sy9gzv)     
-The full code can be found at [GitHub](https://github.com/Akarsh654/unify)     
-The website is launched and you can view it at [Unify](https://unify-ed.herokuapp.com/signIn)!          
-</li>
+
+* The project details can be viewed at [Devpost](https://devpost.com/software/unify-sy9gzv)     
+* The full code can be found at [GitHub](https://github.com/Akarsh654/unify)     
+* The website is launched and you can view it at [Unify](https://unify-ed.herokuapp.com/signIn)!          
+
 
 Furthermore, we plan to extend this website such that it can work for all universities in Canada.   
 ). 
