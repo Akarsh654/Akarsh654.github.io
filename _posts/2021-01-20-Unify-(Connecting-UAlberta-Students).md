@@ -18,8 +18,7 @@ For this project we used HTML, CSS and Javascript for the frontend and NodeJS fo
 * The website is launched and you can view it at [Unify](https://unify-ed.herokuapp.com/signIn)!          
 
 
-Furthermore, we plan to extend this website such that it can work for all universities in Canada.   
-). 
+Furthermore, we plan to extend this website such that it can work for all universities in Canada. 
 
 <p align="center">
 <img src="https://www.uri.org/sites/default/files/styles/hero_banner/public/media/images/2019/unifylogo.png">
