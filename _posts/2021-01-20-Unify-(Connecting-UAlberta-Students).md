@@ -15,7 +15,7 @@ For this project we used HTML, CSS and Javascript for the frontend and NodeJS fo
 
 * The project details can be viewed at [Devpost](https://devpost.com/software/unify-sy9gzv)     
 * The full code can be found at [GitHub](https://github.com/Akarsh654/unify)     
-* The website is launched and you can view it at [Unify](https://unify-ed.herokuapp.com/signIn)!          
+* The website is launched and you can view it at [Unify](https://unify-ed.herokuapp.com/signIn)                
 
 
 Furthermore, we plan to extend this website such that it can work for all universities in Canada. 
