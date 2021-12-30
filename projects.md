@@ -32,9 +32,6 @@ key: page-Projects
 I love working on projects and hackathons to put my skills into practice.  
 Have a look at all the exciting projects I have completed.
 
-<p align="center">
-<img src="https://allhacked.com/up/2019/03/hello-world.gif">
-</p>
 
 
 **My Projects**
@@ -56,6 +53,11 @@ Have a look at all the exciting projects I have completed.
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-0pky">Morgan Stanley Code to Give</td>
+    <td class="tg-0pky">Web Design</td>
+    <td class="tg-0pky"><a href="https://github.com/Akarsh654/destanation-hub" rel="noopener noreferrer">JavaScript</a></td>
+  </tr>
     <tr>
     <td class="tg-0pky">Graph Algorithms Visualization Package</td>
     <td class="tg-0pky">Algorithms </td>
