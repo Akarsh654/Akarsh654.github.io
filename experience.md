@@ -32,7 +32,7 @@ key: page-experience
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://obesitycanada.ca/wp-content/uploads/2018/03/U-of-A-e1558964736216.png" width="400" height="300"/></td>
+            <td><img src="ttps://upload.wikimedia.org/wikipedia/en/thumb/4/4e/University_of_Alberta_seal.svg/800px-University_of_Alberta_seal.svg.png" width="400" height="300"/></td>
             <td>
                 <h2>Data Analytics Intern</h2>
                 <h3>University of Alberta</h3>
