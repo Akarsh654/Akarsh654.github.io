@@ -21,17 +21,7 @@ The full code can be found at [GitHub](https://github.com/Google-DSC-UAlberta/Di
 
 <hr>
 <h3> User commands: </h3>  
-Type !register to view the registration details and/or register  
-
-Type !jobs to see all the jobs I have based on your preferences     
-
-Type !notify to manage notification settings     
-
-Type !view to view your current registation     
-
-Type !modify to modify your current registration     
-
-Type !help to see this message again!       
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ykrk6qZ/method.png" alt="method" border="0"></a>    
 
 
 
