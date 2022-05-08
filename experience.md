@@ -29,13 +29,21 @@ key: page-experience
 
 <h2> Internships </h2>
 
-<img align = "right" src="https://www.amii.ca/media/images/meta.2e16d0ba.fill-1370x800.jpg" alt="Image" width="250" height="150">
-
-University of Alberta <br>
-Data Analytics Intern
-<hr>
 
 <table cellspacing="20">
+          <tr>
+            <td><img src="https://ibb.co/J2FqG4m" width="400" height="300"/></td>
+            <td>
+                <h2>Data Scientist Intern</h2>
+                <h3>RBC Amplify</h3>
+                <p><em><b>May 2022 - Present</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Attended GA Training <\li>
+                </ul>
+            </td>
+        </tr>
+  
         <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/University_of_Alberta_seal.svg/800px-University_of_Alberta_seal.svg.png" width="400" height="300"/></td>
             <td>
@@ -65,7 +73,10 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <p><em><b>June 2021 - Current</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li>Identified local organizations to collaborate with during the academic year  </li>
+                <li>Organised speaker sessions with local companies in Edmonton  </li>
+                 <li> Led and managed a student project to create a discord bot that posts internships based on user preferences (location, keywords) <\li>
+                  <li> Organised virtual hands on workshops with Google Developers <\li>
+                  <li> Organised club meetings and core team meetings <\li>
                 </ul>
             </td>
         </tr>
