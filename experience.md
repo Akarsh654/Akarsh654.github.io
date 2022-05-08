@@ -29,6 +29,11 @@ key: page-experience
 
 <h2> Internships </h2>
 
+<img align = "right" src="https://www.amii.ca/media/images/meta.2e16d0ba.fill-1370x800.jpg" alt="Image" width="250" height="150">
+
+University of Alberta <br>
+Data Analytics Intern
+<hr>
 
 <table cellspacing="20">
         <tr>
