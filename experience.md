@@ -46,7 +46,7 @@ key: page-experience
  </table> 
  <table cellspacing="20">
         <tr>
-            <td><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg" width="400" height="300"/></td>
+            <td><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg"/></td>
             <td>
                 <h2>Data Analytics Intern</h2>
                 <h3>University of Alberta</h3>
