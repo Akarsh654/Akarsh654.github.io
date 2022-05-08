@@ -32,7 +32,7 @@ key: page-experience
 
 <table cellspacing="20">
           <tr>
-            <td><img src="https://digitalnovascotia.com/wp-content/uploads/2022/01/RBC-amplify.png" /></td>
+            <td><img src="https://digitalnovascotia.com/wp-content/uploads/2022/01/RBC-amplify.png" width="400" /></td>
             <td>
                 <h2>Data Scientist Intern</h2>
                 <h3>RBC Amplify</h3>
@@ -106,7 +106,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/University_of_Alberta_seal.svg/800px-University_of_Alberta_seal.svg.png" /></td>
+            <td><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg" /></td>
             <td>
                 <h2>Research Assistant</h2>
                 <h3>University of Alberta</h3>
