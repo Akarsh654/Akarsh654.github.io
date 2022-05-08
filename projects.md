@@ -55,8 +55,8 @@ Have a look at all the exciting projects I have completed.
 <tbody>
   <tr>
     <td class="tg-0pky">Google Developer Student Club -Job Discord Bot</td>
-    <td class="tg-0pky">Python</td>
-    <td class="tg-0pky"><a href="https://github.com/Google-DSC-UAlberta/Discord-Bot" rel="noopener noreferrer">JavaScript</a></td>
+    <td class="tg-0pky">Web Scraping, Database, Bot Config</td>
+    <td class="tg-0pky"><a href="https://github.com/Google-DSC-UAlberta/Discord-Bot" rel="noopener noreferrer">Python</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Morgan Stanley Code to Give</td>
