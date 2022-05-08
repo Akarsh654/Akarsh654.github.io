@@ -116,15 +116,15 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <li> Data Collection and Analysis</li>
                 <li> Algorithmic Design</li>
                 <li> Designed linear and quadratic objective constraints from store discount policies</li>
-                <li> Used Integer Linear Programming in CPlex to obtain the optimal solution</li>
+                <li> Used Integer Linear Programming in CPlex to compute the best shopping solution and lowest price</li>
+                <li> Performed data partitioning, processing as a foundation for numerical experiments </li>
                 </ul>
             </td>
         </tr>
  </table>
-
 <table cellspacing="20">
         <tr>
-            <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg"/></td>
+            <td><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
             <td>
                 <h3>Undergraduate Spectrum Peer Reviewer</h3>
                 <p><em><b>Dec 2020 - Present</b></em></p>
@@ -142,7 +142,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsTIP1BYe2Ar4MWB0nwVmKx_eYiqHVTiyGzx2W_uNzKk_cdhvH2CsFLk6ZS-j5Gul9lQ&usqp=CAU"/></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsTIP1BYe2Ar4MWB0nwVmKx_eYiqHVTiyGzx2W_uNzKk_cdhvH2CsFLk6ZS-j5Gul9lQ&usqp=CAU" width="400" height="300"/></td>
             <td>
                 <h3>Coursera Beta Tester</h3>
                 <p><em><b>Oct 2020 - Present</b></em></p>
@@ -157,7 +157,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://pbs.twimg.com/media/DqtIUJ0X4AImDQb.jpg"/></td>
+            <td><img src="https://pbs.twimg.com/media/DqtIUJ0X4AImDQb.jpg" width="400" height="300"/></td>
             <td>
                 <h3>Service Learning Volunteer</h3>
                 <p><em><b>Dec 2019</b></em></p>
@@ -172,7 +172,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://pbs.twimg.com/profile_images/686783292322926592/kf4ULoYf_400x400.png"/></td>
+            <td><img src="https://pbs.twimg.com/profile_images/686783292322926592/kf4ULoYf_400x400.png" width="400" height="300"/></td>
             <td>
                 <h3>Tour Shuttler</h3>
                 <p><em><b>Feb 2020</b></em></p>
