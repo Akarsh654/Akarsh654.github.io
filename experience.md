@@ -85,7 +85,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" /></td>
+            <td><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400"/></td>
             <td>
                 <h2>Vice President</h2>
                 <h3>Association for Computing Machinery (ACM) Student Chapter</h3>
