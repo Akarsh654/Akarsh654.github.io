@@ -16,19 +16,22 @@ locations, job keywords and notification interval and provide the job postings. 
 We begun by setting up a sql database with the users and jobs tables,and scraped jobs from Indeed and LinkedIn then stored the postings in the database.   
 For the bot configuration we designed user commands to start with ! and used a UI which displays 10 jobs per page with the Title, location, date and link to the job posting. The user can then click next or previous to view the next page. We sorted the jobs by date so that users can see the latest job postings first.
 
-<hr>
-User commands:
-Type !register to view the registration details and/or register
-Type !jobs to see all the jobs I have based on your preferences
-Type !notify to manage notification settings
-Type !view to view your current registation
-Type !modify to modify your current registration
-Type !help to see this message again!
+  
+The full code can be found at [GitHub](https://github.com/Google-DSC-UAlberta/Discord-Bot)   
 
 <hr>
-Use Case:
-<a href="https://ibb.co/2yvwNn4"><img src="https://i.ibb.co/f2kbv1w/bot.png" alt="bot" border="0"></a>
+<h3> User commands: <\h3>  
+Type !register to view the registration details and/or register   
+Type !jobs to see all the jobs I have based on your preferences   
+Type !notify to manage notification settings   
+Type !view to view your current registation   
+Type !modify to modify your current registration   
+Type !help to see this message again!    
 
-The full code can be found at [GitHub](https://github.com/Google-DSC-UAlberta/Discord-Bot)
+
+<hr>
+<h3> Use Case:   <\h3>    
+<a href="https://ibb.co/ZH2gygd"><img src="https://i.ibb.co/Q8DHsH9/Inkedbot-LI.jpg" alt="Inkedbot-LI" border="0"></a>     
+
 
 
