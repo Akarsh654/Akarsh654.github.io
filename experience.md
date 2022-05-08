@@ -46,7 +46,7 @@ key: page-experience
  </table> 
  <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg"/></td>
+            <td width="40%"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg"/></td>
             <td>
                 <h2>Data Analytics Intern</h2>
                 <h3>University of Alberta</h3>
@@ -67,7 +67,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png"/></td>
+            <td width="40%"<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png"/></td>
             <td>
                 <h2>Student Lead (President)</h2>
                 <h3> Google Developer Student Club (DSC)</h3>
@@ -85,7 +85,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400"/></td>
+            <td width="40%"><img src="https://insat.acm.org/img/posts/12ca85645bb082ea9f4db29bdb63eb87.jpeg" width="400"/></td>
             <td>
                 <h2>Vice President</h2>
                 <h3>Association for Computing Machinery (ACM) Student Chapter</h3>
@@ -106,7 +106,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg" width="400" /></td>
+            <td width="40%"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg" width="400" /></td>
             <td>
                 <h2>Research Assistant</h2>
                 <h3>University of Alberta</h3>
@@ -124,7 +124,7 @@ and improve Donor Retention and Donor Giving Levels </li>
  </table>
 <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
+            <td width="40%"><img src="https://www.ualberta.ca/graduate-studies/media-library/professional-development/community-connect/20190916-uri.jpg" width="400" height="300"/></td>
             <td>
                 <h3>Undergraduate Spectrum Peer Reviewer</h3>
                 <p><em><b>Dec 2020 - Present</b></em></p>
@@ -142,7 +142,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsTIP1BYe2Ar4MWB0nwVmKx_eYiqHVTiyGzx2W_uNzKk_cdhvH2CsFLk6ZS-j5Gul9lQ&usqp=CAU" width="400" height="300"/></td>
+            <td width="40%"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMsTIP1BYe2Ar4MWB0nwVmKx_eYiqHVTiyGzx2W_uNzKk_cdhvH2CsFLk6ZS-j5Gul9lQ&usqp=CAU" width="400" height="300"/></td>
             <td>
                 <h3>Coursera Beta Tester</h3>
                 <p><em><b>Oct 2020 - Present</b></em></p>
@@ -157,7 +157,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://pbs.twimg.com/media/DqtIUJ0X4AImDQb.jpg" width="400" height="300"/></td>
+            <td width="40%"><img src="https://pbs.twimg.com/media/DqtIUJ0X4AImDQb.jpg" width="400" height="300"/></td>
             <td>
                 <h3>Service Learning Volunteer</h3>
                 <p><em><b>Dec 2019</b></em></p>
@@ -172,7 +172,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width=40%><img src="https://pbs.twimg.com/profile_images/686783292322926592/kf4ULoYf_400x400.png" width="400" height="300"/></td>
+            <td width="40%"><img src="https://pbs.twimg.com/profile_images/686783292322926592/kf4ULoYf_400x400.png" width="400" height="300"/></td>
             <td>
                 <h3>Tour Shuttler</h3>
                 <p><em><b>Feb 2020</b></em></p>
