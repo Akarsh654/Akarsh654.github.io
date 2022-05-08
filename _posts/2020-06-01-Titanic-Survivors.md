@@ -1,7 +1,7 @@
 ---
 title: Titanic Survivors
 date: 2020-06-01
-tags: [R,Python,Jupyternotebook,Python,MachineLearning,LogisticRegression]
+tags: [R,Python,Jupyternotebook,MachineLearning,LogisticRegression]
 ---
 
 <hr>
