@@ -44,6 +44,7 @@ key: page-experience
             </td>
         </tr>
  </table> 
+ <table cellspacing="20">
         <tr>
             <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/University_of_Alberta_seal.svg/800px-University_of_Alberta_seal.svg.png" width="400" height="300"/></td>
             <td>
