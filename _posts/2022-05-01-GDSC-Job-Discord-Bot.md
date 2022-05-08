@@ -17,7 +17,7 @@ We begun by setting up a SQL database with the users and jobs tables,and scraped
 For the bot configuration we designed user commands to start with ! and used a UI which displays 10 jobs per page with the Title, location, date and link to the job posting. The user can then click next or previous to view the next page. We sorted the jobs by date so that users can see the latest job postings first.
 
 <hr>
-Team Members:
+<h3> Team Members: </h3>
 * [Akrash Sharma](https://github.com/Akarsh654/)   
 * [Ze Hui Peng](https://github.com/zhpeng811)  
 * [Kelly Shih](https://github.com/kelly-shih/)  
