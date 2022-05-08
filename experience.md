@@ -32,7 +32,7 @@ key: page-experience
 
 <table cellspacing="20">
           <tr>
-            <td style="width:20%"><img src="https://digitalnovascotia.com/wp-content/uploads/2022/01/RBC-amplify.png" /></td>
+            <td width="40%"><img src="https://digitalnovascotia.com/wp-content/uploads/2022/01/RBC-amplify.png" /></td>
             <td>
                 <h2>Data Scientist Intern</h2>
                 <h3>Royal Bank of Canada, RBC Amplify</h3>
