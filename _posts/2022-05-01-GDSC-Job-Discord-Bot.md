@@ -18,14 +18,13 @@ For the bot configuration we designed user commands to start with ! and used a U
 
 <hr>
 Team Members:
-[Akrash Sharma](https://github.com/Akarsh654/)
 * [Akrash Sharma](https://github.com/Akarsh654/)   
-[Ze Hui Peng](https://github.com/zhpeng811)  
-[Kelly Shih](https://github.com/kelly-shih/)  
-[Chee Tey](https://github.com/cheetiantey)  
-[Paul Bakshi](https://github.com/AinJex)  
-[Faiyad Rahman](https://github.com/FaiyadRahman)  
-[Pratham Arora](https://github.com/PrathamArora20)  
+* [Ze Hui Peng](https://github.com/zhpeng811)  
+* [Kelly Shih](https://github.com/kelly-shih/)  
+* [Chee Tey](https://github.com/cheetiantey)  
+* [Paul Bakshi](https://github.com/AinJex)  
+* [Faiyad Rahman](https://github.com/FaiyadRahman)  
+* [Pratham Arora](https://github.com/PrathamArora20)  
 
 The full code can be found at [GitHub](https://github.com/Google-DSC-UAlberta/Discord-Bot)   
 
