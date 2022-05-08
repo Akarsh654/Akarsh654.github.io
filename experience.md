@@ -39,7 +39,7 @@ key: page-experience
                 <p><em><b>May 2022 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li> Attended GA Training <\li>
+                <li> Attended GA Training </li>
                 </ul>
             </td>
         </tr>
@@ -74,9 +74,9 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li>Organised speaker sessions with local companies in Edmonton  </li>
-                 <li> Led and managed a student project to create a discord bot that posts internships based on user preferences (location, keywords) <\li>
-                  <li> Organised virtual hands on workshops with Google Developers <\li>
-                  <li> Organised club meetings and core team meetings <\li>
+                 <li> Led and managed a student project to create a discord bot that posts internships based on user preferences (location, keywords) </li>
+                  <li> Organised virtual hands on workshops with Google Developers </li>
+                  <li> Organised club meetings and core team meetings </li>
                 </ul>
             </td>
         </tr>
