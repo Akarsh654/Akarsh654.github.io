@@ -67,7 +67,7 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width="40%"<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png"/></td>
+            <td width="40%"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png"/></td>
             <td>
                 <h2>Student Lead (President)</h2>
                 <h3> Google Developer Student Club (DSC)</h3>
