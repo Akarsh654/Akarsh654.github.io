@@ -32,7 +32,7 @@ key: page-experience
 
 <table cellspacing="20">
           <tr>
-            <td><img src="https://ibb.co/J2FqG4m" width="400" height="300"/></td>
+            <td><img src="https://ibb.co/pyXs0nj" width="400" height="300"/></td>
             <td>
                 <h2>Data Scientist Intern</h2>
                 <h3>RBC Amplify</h3>
