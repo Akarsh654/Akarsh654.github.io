@@ -13,6 +13,6 @@ can notify the user of new job postings based on the notification interval provi
 I led a team of 7 and held weekly meetings and used SCRUM practices. I initially divided the teams into 3 - Database team, WebScraping team and Bot Configuration team.
 We scraped jobs from Indeed and LinkedIn and stored the postings in a sql database. 
 
-The full code can be found at (GitHub)[https://github.com/Google-DSC-UAlberta/Discord-Bot]
+The full code can be found at [GitHub](https://github.com/Google-DSC-UAlberta/Discord-Bot)
 
 
