@@ -32,10 +32,10 @@ key: page-experience
 
 <table cellspacing="20">
           <tr>
-            <td><img src="https://digitalnovascotia.com/wp-content/uploads/2022/01/Royal Bank of Canada, RBC-amplify.png" width="400" /></td>
+            <td><img src="https://digitalnovascotia.com/wp-content/uploads/2022/01/RBC-amplify.png" width="25%" /></td>
             <td>
                 <h2>Data Scientist Intern</h2>
-                <h3>RBC Amplify</h3>
+                <h3>Royal Bank of Canada, RBC Amplify</h3>
                 <p><em><b>May 2022 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
