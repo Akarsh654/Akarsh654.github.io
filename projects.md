@@ -59,6 +59,11 @@ Have a look at all the exciting projects I have completed.
     <td class="tg-0pky"><a href="https://github.com/Google-DSC-UAlberta/Discord-Bot" rel="noopener noreferrer">Python</a></td>
   </tr>
   <tr>
+    <td class="tg-0pky">Large Vessel Occlusion Prediction</td>
+    <td class="tg-0pky">Machine Learning, Deep Learning, Data Preprocessing</td>
+    <td class="tg-0pky"><a href="https://github.com/J-A-T-T/LVO-EEG" rel="noopener noreferrer">Python</a></td>
+  </tr>
+  <tr>
     <td class="tg-0pky">Morgan Stanley Code to Give</td>
     <td class="tg-0pky">Web Design</td>
     <td class="tg-0pky"><a href="https://github.com/Akarsh654/destanation-hub" rel="noopener noreferrer">JavaScript</a></td>
