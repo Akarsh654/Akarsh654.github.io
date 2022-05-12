@@ -110,12 +110,12 @@ and improve Donor Retention and Donor Giving Levels </li>
             <td>
                 <h2>AI Capstone</h2>
                 <h3>University of Alberta</h3>
-                <p><em><b>May 2021 - Present</b></em></p>
+                <p><em><b>Jan 2022 - Mar 2022</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Cleaned and Preprocessed EEG Data using ICA (Independent Component Analysis) and Wavelet transform </li>
                 <li> Implemented ML Models like Support Vector Machine (SVM), Random Forests (RF), Gaussian Process (GP) to predict LVO Likelihood from EEG Data  </li>
-                <li> Achieved 81% accuracy and 0.2 expected loss i.e (4FN + FP)/ ( 4*(TP+FN) + FP + TN )</li>
+                <li> Achieved 81% accuracy and 0.2 expected loss i.e (4*FN + FP)/ ( 4*(TP+FN) + FP + TN ) </li>
                 <li> Wrote a research paper </li>
                 </ul>
             </td>
