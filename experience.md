@@ -115,7 +115,8 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <ul>
                 <li> Cleaned and Preprocessed EEG Data using ICA (Independent Component Analysis) and Wavelet transform </li>
                 <li> Implemented ML Models like Support Vector Machine (SVM), Random Forests (RF), Gaussian Process (GP) to predict LVO Likelihood from EEG Data  </li>
-                <li> Achieved 81% accuracy and 0.2 expected loss i.e (4*FN + FP)/ ( 4*(TP+FN) + FP + TN ) </li>
+                <li> Implemented Stacking Classifier and Voting Classifier to combine Machine Learning Models </li>
+                  <li> Achieved 81% accuracy and 0.2 expected loss i.e (4*FN + FP)/ ( 4*(TP+FN) + FP + TN ) </li>
                 <li> Wrote a research paper </li>
                 </ul>
             </td>
