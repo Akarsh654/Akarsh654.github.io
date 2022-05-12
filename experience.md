@@ -108,9 +108,27 @@ and improve Donor Retention and Donor Giving Levels </li>
         <tr>
             <td width="40%"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg" width="400" /></td>
             <td>
-                <h2>Research Assistant</h2>
+                <h2>AI Capstone</h2>
                 <h3>University of Alberta</h3>
                 <p><em><b>May 2021 - Present</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Cleaned and Preprocessed EEG Data using ICA (Independent Component Analysis) and Wavelet transform </li>
+                <li> Implemented ML Models like Support Vector Machine (SVM), Random Forests (RF), Gaussian Process (GP) to predict LVO Likelihood from EEG Data  </li>
+                <li> Achieved 81% accuracy and 0.2 expected loss i.e (4FN + FP)/ ( 4*(TP+FN) + FP + TN )</li>
+                <li> Wrote a research paper </li>
+                </ul>
+            </td>
+        </tr>
+ </table>
+ 
+<table cellspacing="20">
+        <tr>
+            <td width="40%"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg" width="400" /></td>
+            <td>
+                <h2>Research Assistant</h2>
+                <h3>University of Alberta</h3>
+                <p><em><b>May 2021 - Aug 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Data Collection and Analysis</li>
