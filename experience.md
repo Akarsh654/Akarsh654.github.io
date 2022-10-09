@@ -72,8 +72,8 @@ and improve Donor Retention and Donor Giving Levels </li>
 <table cellspacing="20">
         <tr>
             <td width="40%"><img src=""/></td>
-            <td>
-                <h2>VP Projects</h2>![Screenshot 2022-10-08 211640](https://user-images.githubusercontent.com/56489645/194736156-2ccaa2ac-2231-4b87-901a-7b28d38986b0.png)
+            <td width="40%"> <img src="https://user-images.githubusercontent.com/56489645/194736156-2ccaa2ac-2231-4b87-901a-7b28d38986b0.png"/></td>
+                <h2>VP Projects</h2>
 
                 <h3>UofA BluePrint</h3>
                 <p><em><b>June 2022 - Present</b></em></p>
