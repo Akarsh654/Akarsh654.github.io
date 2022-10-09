@@ -74,7 +74,7 @@ and improve Donor Retention and Donor Giving Levels </li>
             <td width="40%"><img src=""/></td>
             <td width="40%"> <img src="https://user-images.githubusercontent.com/56489645/194736156-2ccaa2ac-2231-4b87-901a-7b28d38986b0.png"/></td>
                 <h2>VP Projects</h2>
-
+             <td>
                 <h3>UofA BluePrint</h3>
                 <p><em><b>June 2022 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
