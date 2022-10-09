@@ -71,14 +71,14 @@ and improve Donor Retention and Donor Giving Levels </li>
 
 <table cellspacing="20">
         <tr>
-            <td width="40%"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png"/></td>
+            <td width="40%"><img src=""/></td>
             <td>
-                <h2>VP Projects</h2>
+                <h2>VP Projects</h2>![Screenshot 2022-10-08 211640](https://user-images.githubusercontent.com/56489645/194736156-2ccaa2ac-2231-4b87-901a-7b28d38986b0.png)
+
                 <h3>UofA BluePrint</h3>
                 <p><em><b>June 2022 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li>Organised speaker sessions with local companies in Edmonton  </li>
                  <li> Created a project evaluation template to assess the viability and impact of projects with non-profit organizations </li>
                   <li> Collaborated with a team of developers and designers to create software solutions for non profit organisations </li>
                 </ul>
