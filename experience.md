@@ -36,7 +36,7 @@ key: page-experience
             <td>
                 <h2>Data Scientist Intern</h2>
                 <h3>Royal Bank of Canada, RBC Amplify</h3>
-                <p><em><b>May 2022 - Present</b></em></p>
+                <p><em><b>May 2022 - Aug 2022</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Interviewed enterprise stakeholders and capital market stakeholders to understand the business needs </li>
