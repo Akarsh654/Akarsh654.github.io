@@ -54,7 +54,7 @@ key: page-experience
             <td>
                 <h2>Data Analytics Intern</h2>
                 <h3>University of Alberta</h3>
-                <p><em><b>May 2021 - Present</b></em></p>
+                <p><em><b>May 2021 - Aug 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Conducted Data Analysis and Visualizations using Python to create First Interaction Area of Donors </li>
@@ -73,9 +73,26 @@ and improve Donor Retention and Donor Giving Levels </li>
         <tr>
             <td width="40%"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png"/></td>
             <td>
+                <h2>VP Projects</h2>
+                <h3>UofA BluePrint</h3>
+                <p><em><b>June 2022 - Present</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li>Organised speaker sessions with local companies in Edmonton  </li>
+                 <li> Created a project evaluation template to assess the viability and impact of projects with non-profit organizations </li>
+                  <li> Collaborated with a team of developers and designers to create software solutions for non profit organisations </li>
+                </ul>
+            </td>
+        </tr>
+ </table>
+ 
+<table cellspacing="20">
+        <tr>
+            <td width="40%"><img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_center,h_175,q_auto:good,w_175/v1/gcs/platform-data-dsc/events/University%20of%20Alberta_nDQIMqF.png"/></td>
+            <td>
                 <h2>Student Lead (President)</h2>
-                <h3> Google Developer Student Club (DSC)</h3>
-                <p><em><b>June 2021 - Current</b></em></p>
+                <h3> Google Developer Student Club (GDSC)</h3>
+                <p><em><b>June 2021 - June 2022</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li>Organised speaker sessions with local companies in Edmonton  </li>
