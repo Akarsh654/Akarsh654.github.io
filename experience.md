@@ -38,7 +38,7 @@ key: page-experience
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Performed cross-correlation analysis to capture time lags and key trends in weather patterns in different seasons </li>
-                <li> Used LSTMs to predict the weather for upcoming months in Alberta using time series data  </li>
+                <li> Built an RNN model to predict the weather for upcoming months in Alberta using time series data  </li>
                 <li> Built a system to fetch live weather data using OpenWeatherMap API </li> 
                 <li> Used Yolov8 to perform object detection to detect cows </li>
                 <li> Used contour detection, morphological operations, and binary masks to detect high-temperature regions in the cow </li>
