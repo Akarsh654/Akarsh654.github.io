@@ -28,7 +28,27 @@ key: page-experience
 ---
 
 <h2> Internships </h2>
-
+ <table cellspacing="20">
+        <tr>
+            <td width="40%"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg"/></td>
+            <td>
+                <h2>Research Assistant</h2>
+                <h3>AI Computation Team, Wishart Lab</h3>
+                <p><em><b>Oct 2022 - Aug 2023</b></em></p>
+                <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                <li> Performed cross-correlation analysis to capture time lags and key trends in weather patterns in different seasons </li>
+                <li> Used LSTMs to predict the weather for upcoming months in Alberta using time series data  </li>
+                <li> Built a system to fetch live weather data using OpenWeatherMap API </li> 
+                <li> Used Yolov8 to perform object detection to detect cows </li>
+                <li> Used contour detection, morphological operations, and binary masks to detect high-temperature regions in the cow </li>
+                <li> Performed image segmentation to determine the noses </li>
+                <li> Used Convolutional Neural Networks (VGG16) for feature extraction from the nose and eye masks of the cows </li>
+                <li> Used K-Means Clustering to cluster the cows into high-stress, medium-stress, and low-stress </li>
+                </ul>
+            </td>
+        </tr>
+ </table>
 
 <table cellspacing="20">
           <tr>
