@@ -10,5 +10,3 @@ title: Resume
     </embed>
 </object>
 
-
-<iframe src="https://drive.google.com/file/d/1hDU6tiXoTQJG6d-L9uJUO7hS0NhDtnl9/preview" width="640" height="480" allow="autoplay"></iframe>
