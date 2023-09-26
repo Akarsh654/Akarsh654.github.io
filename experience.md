@@ -48,7 +48,7 @@ key: page-experience
             <td width="40%"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg"/></td>
             <td>
                 <h2>Research Assistant</h2>
-                <h3>AI Computation Team, Wishart Lab</h3>
+                <h3>AI Computation Team, The Metabolomics Innovation Center</h3>
                 <p><em><b>Oct 2022 - Aug 2023</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
