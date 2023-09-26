@@ -45,7 +45,7 @@ key: page-experience
 <h2> Internships </h2>
  <table cellspacing="20">
         <tr>
-            <td width="40%"><img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.cengn.ca/wp-content/uploads/2021/08/AlbertaU.jpeg"/></td>
+            <td width="40%"><img src="https://metabolomicscentre.ca/wp-content/uploads/TMIC-logo-1024x591.png"/></td>
             <td>
                 <h2>Research Assistant</h2>
                 <h3>AI Computation Team, The Metabolomics Innovation Center</h3>
