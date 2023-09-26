@@ -27,13 +27,13 @@ titles:
 key: page-about
 ---
 
-I am an Undergraduate Student at University of Alberta pursuing Honors Computer Science. I find joy in Web Design and I have a deep interest in Machine Learning, Data Science and Artificial Intelligence. Most of my work is open source and I enjoy working on projects and hackathons. 
+I am a Machine Learning Developer at Royal Bank of Canada (RBC). I graduated with Bachelors in Science First Class Honors in Computing Science from University of Alberta. I find joy in Data Engineering and Data Science and I have a deep interest in Machine Learning, Large Language Models and Artificial Intelligence. Most of my work is open source and I enjoy working on projects and hackathons. 
 
 
 
 
 
 <p align="center">
-<img src="https://i.ibb.co/DLgCNrf/Picture.jpg" alt="Picture" border="0">
+<img src="https://i.ibb.co/THJYBRJ/Professional-Picture.jpg" alt="Professional-Picture" border="0">
 
 </p>
