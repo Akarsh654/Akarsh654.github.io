@@ -34,6 +34,6 @@ I am an Undergraduate Student at University of Alberta pursuing Honors Computer 
 
 
 <p align="center">
-<img src="https://ibb.co/8X45JYg" alt="akrash" border="0">
+<img src="https://i.ibb.co/DLgCNrf/Picture.jpg" alt="Picture" border="0">
 
 </p>
