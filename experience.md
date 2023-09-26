@@ -29,7 +29,7 @@ key: page-experience
 <h2> Full-Time </h2>
  <table cellspacing="20">
         <tr>
-            <td width="40%"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Frbc%2F&psig=AOvVaw13ELlW3KsdTiqM9itbxucR&ust=1695848298866000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDd962VyYEDFQAAAAAdAAAAABAR"/></td>
+            <td width="40%"><img src="https://www.hawkesbury.ca/media/com_jbusinessdirectory/pictures/companies/313/cropped-1570733184.png"/></td>
             <td>
                 <h2>Machine Learning Developer</h2>
                 <h3>IT Risk Counterparty Team, Capital Markets</h3>
