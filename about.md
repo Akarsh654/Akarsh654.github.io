@@ -34,6 +34,6 @@ I am a Machine Learning Developer at Royal Bank of Canada (RBC). I graduated wit
 
 
 <p align="center">
-<img src="https://i.ibb.co/THJYBRJ/Professional-Picture.jpg" alt="Professional-Picture" border="0" width = 55% height = auto>
+<img src="https://i.ibb.co/THJYBRJ/Professional-Picture.jpg" alt="Professional-Picture" border="0" width=55% height=auto>
 
 </p>
