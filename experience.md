@@ -33,7 +33,7 @@ key: page-experience
             <td>
                 <h2>Machine Learning Developer</h2>
                 <h3>Market, Credit, Counterparty Risk (MCCR) Team, Capital Markets</h3>
-                <p><em><b>Aug 2023 - Present</b></em></p>
+                <p><em><b>Sept 2023 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                  <li> Implemented an ETL pipeline in Java utilizing Spring Boot to facilitate seamless data extraction and loading.</li>
