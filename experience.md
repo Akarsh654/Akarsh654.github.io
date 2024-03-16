@@ -32,11 +32,17 @@ key: page-experience
             <td width="40%"><img src="https://www.hawkesbury.ca/media/com_jbusinessdirectory/pictures/companies/313/cropped-1570733184.png"/></td>
             <td>
                 <h2>Machine Learning Developer</h2>
-                <h3>IT Risk Counterparty Team, Capital Markets</h3>
+                <h3>Market, Credit, Counterparty Risk (MCCR) Team, Capital Markets</h3>
                 <p><em><b>Aug 2023 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li> Training, learning SpringBoot, Helios, Kafka, Spark </li>
+                 <li> Implemented an ETL pipeline in Java utilizing Spring Boot to facilitate seamless data extraction and loading.</li>
+                 <li> Engineered a robust CI/CD pipeline within a microservices architecture framework, leveraging OpenShift for seamless deployment.</li>
+                 <li>	Enabled parallel execution of batch jobs to load multiple trade feeds from Hadoop into SQL Server staging tables.</li>
+                 <li>	Leveraged Amazon SNS for inter-service communications and implemented caching to achieve an 85% reduction in processing time for data accessed across various services.</li>
+                 <li>	Redesigned the existing Drools system to utilize SQL configuration tables, significantly improving performance by implementing a fallback mechanism to reduce the computational overhead.</li>
+                 <li>	Implemented stress utilization calculations for fixed income and equity trades, integrating S&P ratings, tenor curves, and settlement timelines to assess pre-settlement risk effectively and produce trade reports.</li>
+
                 </ul>
             </td>
         </tr>
