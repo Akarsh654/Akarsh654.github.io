@@ -42,8 +42,7 @@ key: page-experience
                  <li>	Leveraged Amazon SNS for inter-service communications and implemented caching to achieve an 85% reduction in processing time for data accessed across various services.</li>
                  <li>	Redesigned the existing Drools system to utilize SQL configuration tables, significantly improving performance by implementing a fallback mechanism to reduce the computational overhead.</li>
                  <li>	Implemented stress utilization calculations for fixed income and equity trades, integrating S&P ratings, tenor curves, and settlement timelines to assess pre-settlement risk effectively and produce trade reports.</li>
-
-                </ul>
+               </ul>
             </td>
         </tr>
  </table>
