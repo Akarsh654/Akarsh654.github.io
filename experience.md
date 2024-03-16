@@ -31,7 +31,7 @@ key: page-experience
         <tr>
             <td width="40%"><img src="https://www.hawkesbury.ca/media/com_jbusinessdirectory/pictures/companies/313/cropped-1570733184.png"/></td>
             <td>
-                <h2>Machine Learning Developer</h2>
+                <h2>Data Engineer</h2>
                 <h3>Market, Credit, Counterparty Risk (MCCR) Team, Capital Markets</h3>
                 <p><em><b>Sept 2023 - Present</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
