@@ -57,14 +57,14 @@ key: page-experience
                 <p><em><b>Oct 2022 - Aug 2023</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li> Performed cross-correlation analysis to capture time lags and key trends in weather patterns in different seasons </li>
-                <li> Built an RNN model to predict the weather for upcoming months in Alberta using time series data  </li>
-                <li> Built a system to fetch live weather data using OpenWeatherMap API </li> 
-                <li> Used Yolov8 to perform object detection to detect cows </li>
-                <li> Used contour detection, morphological operations, and binary masks to detect high-temperature regions in the cow </li>
-                <li> Performed image segmentation to determine the noses </li>
-                <li> Used Convolutional Neural Networks (VGG16) for feature extraction from the nose and eye masks of the cows </li>
-                <li> Used K-Means Clustering to cluster the cows into high-stress, medium-stress, and low-stress </li>
+                <li> Conducted cross-correlation analysis to identify temporal patterns and time lags within seasonal weather data. </li>
+                <li> Built an RNN model to predict the weather for upcoming months in Alberta using time series data.  </li>
+                <li> Engineered a real-time weather data retrieval system using the OpenWeatherMap API to support ongoing analysis and forecasting efforts. </li> 
+                <li> Used Yolov8 to perform object detection to detect cows. </li>
+                <li> Used contour detection, morphological operations, and binary masks to detect high-temperature regions in the cow. </li>
+                <li> Performed image segmentation to determine the noses. </li>
+                <li> Utilized Convolutional Neural Networks (VGG16) for feature extraction from cow nose and eye masks, </li>
+                <li> Employed K-Means Clustering to categorize cows into distinct stress levels - high-stress, medium-stress, and low-stress - based on gathered data and analysis. </li>
                 </ul>
             </td>
         </tr>
@@ -97,11 +97,11 @@ key: page-experience
                 <p><em><b>May 2021 - Aug 2021</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li> Conducted Data Analysis and Visualizations using Python to create First Interaction Area of Donors </li>
-                <li> Used Descriptive Analysis and Correlation Analysis to help answer questions about Donor Engagement   </li>
+                <li> Conducted Data Analysis and Visualizations using Python to create First Interaction Area of Donor Engagement. </li>
+                <li> Applied descriptive and correlation analysis techniques to gain insights into donor behavior and enhance engagement strategies effectively. </li>
                 <li> Built advanced Tableau dashboards with quick/context/global filters, parameters and calculated fields to track 
-and improve Donor Retention and Donor Giving Levels </li>
-                <li> Used Predictive Modelling to help identify top prospects and built Donor Model </li>
+and improve Donor Retention and Giving Levels </li>
+                <li> Used Predictive Modelling to help identify top prospects and built a Donor Model </li>
                 </ul>
             </td>
         </tr>
@@ -118,8 +118,10 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <p><em><b>June 2022 - Dec 2022</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                 <li> Created a project evaluation template to assess the viability and impact of projects with non-profit organizations </li>
-                  <li> Collaborated with a team of developers and designers to create software solutions for non profit organisations </li>
+                 <li> Designed and implemented a comprehensive project evaluation template tailored to assess the feasibility and impact of initiatives undertaken with non-profit organizations. </li>
+                  <li> Directed and coordinated a multidisciplinary team of developers and designers, employing agile methodologies such as Scrum, to deliver software solutions for non-profit organizations. </li>
+                  <li> Engaged with clients to deliver product demonstrations and gather feedback, fostering a collaborative approach to refinement and enhancement of the software solutions.</li>
+                  <li> Collaborated with designers to strategize and refine product design, offering constructive feedback aligned with project requirements and the feasibility of Minimum Viable Product (MVP) implementation. </li>
                 </ul>
             </td>
         </tr>
@@ -134,10 +136,10 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <p><em><b>June 2021 - June 2022</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
-                <li>Organised speaker sessions with local companies in Edmonton  </li>
-                 <li> Led and managed a student project to create a discord bot that posts internships based on user preferences (location, keywords) </li>
-                  <li> Organised virtual hands on workshops with Google Developers </li>
-                  <li> Organised club meetings and core team meetings </li>
+                <li>Organised speaker sessions with local companies in Edmonton, fostering valuable networking opportunities and knowledge exchange within the community.  </li>
+                 <li> Led and managed a project to create a discord bot that posts internships based on user preferences such as location and keywords. </li>
+                  <li> Coordinated virtual hands-on workshops in collaboration with Google Developers, providing participants with practical experience and insights into cutting-edge technologies. </li>
+                  <li> Facilitated the organization of club meetings and core team gatherings, ensuring effective communication and coordination of activities to achieve shared objectives and goals. </li>
                 </ul>
             </td>
         </tr>
@@ -153,9 +155,9 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Organized Club meetings, activites and events</li>
-                <li>Held kaggle competitions, distinguished speaker sessions and hackathons</li>
+                <li> Facilitated Kaggle competitions and distinguished speaker sessions, providing members with valuable opportunities for skill development and networking.</li>
                 <li>Connected members with opportunities for growth and learning</li>
-                <li>Elected Member of Board</li>
+                <li>Elected as a Member of the Board, contributing to strategic decision-making and governance to drive the club's mission and objectives forward.</li>
                 </ul>
             </td>
         </tr>
@@ -174,9 +176,11 @@ and improve Donor Retention and Donor Giving Levels </li>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Cleaned and Preprocessed EEG Data using ICA (Independent Component Analysis) and Wavelet transform </li>
-                <li> Implemented ML Models like Support Vector Machine (SVM), Random Forests (RF), Gaussian Process (GP) to predict LVO Likelihood from EEG Data  </li>
-                <li> Implemented Stacking Classifier and Voting Classifier to combine Machine Learning Models </li>
-                  <li> Achieved 81% accuracy and 0.2 expected loss i.e (4*FN + FP)/ ( 4*(TP+FN) + FP + TN ) </li>
+                <li> Implemented and evaluated the performance of various machine learning models including Support Vector Machine, Random Forests, and Gaussian Process for predicting LVO (Large Vessel Occlusion) Likelihood from EEG data. </li>
+                <li> Implemented Stacking Classifier and Voting Classifier to effectively combine Machine Learning Models </li>
+                <li> Devised a customized evaluation metric i.e (4*FN + FP)/ ( 4*(TP+FN) + FP + TN ) aimed at mitigating false negatives in model assessment, emphasizing the importance of accurately identifying individuals with LVO. </li>
+                <li> Used SHAP values for model explainability and to understand the impact of different features on the predictive outcomes. </li>
+                  <li> Achieved 81% accuracy and 0.2 expected loss. </li>
                 <li> Wrote a research paper </li>
                 </ul>
             </td>
