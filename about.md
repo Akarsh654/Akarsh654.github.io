@@ -27,7 +27,7 @@ titles:
 key: page-about
 ---
 
-I am a Machine Learning Developer at Royal Bank of Canada (RBC). I graduated with Bachelors in Science First Class Honors in Computing Science from University of Alberta. I find joy in Data Engineering and Data Science and I have a deep interest in Machine Learning, Large Language Models and Artificial Intelligence. Most of my work is open source and I enjoy working on projects and hackathons. 
+I am a Data Engineer at Royal Bank of Canada (RBC). I graduated with Bachelors in Science First Class Honors in Computing Science from University of Alberta. I find joy in Data Engineering and Data Science and I have a deep interest in Machine Learning, Large Language Models and Artificial Intelligence. Most of my work is open source and I enjoy working on projects and hackathons. 
 
 
 
