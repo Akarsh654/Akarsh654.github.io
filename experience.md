@@ -101,7 +101,7 @@ key: page-experience
                 <li> Applied descriptive and correlation analysis techniques to gain insights into donor behavior and enhance engagement strategies effectively. </li>
                 <li> Built advanced Tableau dashboards with quick/context/global filters, parameters and calculated fields to track 
 and improve Donor Retention and Giving Levels </li>
-                <li> Used Predictive Modelling to help identify top prospects and built a Donor Model </li>
+                <li> Used Predictive Modelling to help identify top prospects using Random Forests with a 80% accuracy. </li>
                 </ul>
             </td>
         </tr>
