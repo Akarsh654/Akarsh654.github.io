@@ -119,7 +119,7 @@ and improve Donor Retention and Giving Levels </li>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                  <li> Designed and implemented a comprehensive project evaluation template tailored to assess the feasibility and impact of initiatives undertaken with non-profit organizations. </li>
-                  <li> Directed and coordinated a multidisciplinary team of developers and designers, employing agile methodologies such as Scrum, to deliver software solutions for non-profit organizations. </li>
+                  <li> Directed and coordinated a multidisciplinary team of developers and designers, employing agile methodologies such as Scrum, to deliver software solutions for Alzheimer’s Calgary. </li>
                   <li> Engaged with clients to deliver product demonstrations and gather feedback, fostering a collaborative approach to refinement and enhancement of the software solutions.</li>
                   <li> Collaborated with designers to strategize and refine product design, offering constructive feedback aligned with project requirements and the feasibility of Minimum Viable Product (MVP) implementation. </li>
                 </ul>
