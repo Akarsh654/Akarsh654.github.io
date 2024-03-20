@@ -80,10 +80,11 @@ key: page-experience
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                 <li> Interviewed enterprise stakeholders and capital market stakeholders to understand the business needs </li>
-                 <li> Built a Reporting and Analytics Dashboard using Tableau to capture key trends and analysis </li>  
-                 <li> Built a Machine Learning Model using Random Forests to match business partners to sourcing professionals </li>  
-                 <li> Used Flask to integrate the MLModel in the backend of the web application </li> 
-                 <li> Pitched the final presentation to executives and won the Biggest Pivot Award at AmpExpo </li> 
+                 <li> Built a Reporting and Analytics Dashboard using Tableau to capture key trends and analysis on type of requests, business unit of requests and workload of sourcing professionals. </li>  
+                 <li> Implemented a Random Forest model to streamline the matching process between business partners and sourcing professionals, reducing manual efforts from 3 days to just 30 seconds, with 80% accuracy. </li>  
+                 <li> Used Flask to integrate the ML Model in the backend of the web application </li> 
+                  <li> Projected cost savings from $286M to $457M by enhancing procurement engagement via website implementation. </li>
+                 <li> Pitched the final presentation to executives, winning the prestigious Biggest Pivot Award at AmpExpo. </li> 
                 </ul>
             </td>
         </tr>
