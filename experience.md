@@ -39,7 +39,7 @@ key: page-experience
                  <li> Implemented an ETL pipeline in Java utilizing Spring Boot to facilitate seamless data extraction and loading.</li>
                  <li> Engineered a robust CI/CD pipeline within a microservices architecture framework, leveraging OpenShift for seamless deployment.</li>
                  <li>	Enabled parallel execution of batch jobs to load multiple trade feeds from Hadoop into SQL Server staging tables.</li>
-                 <li>	Leveraged Amazon SNS for inter-service communication and implemented caching to achieve an 85% reduction in processing time for data accessed across various services.</li>
+                 <li>	Designed Rest APIs and leveraged Amazon SNS for inter-service communication and implemented caching to achieve an 85% reduction in processing time for data accessed across various services.</li>
                  <li>	Redesigned the existing Drools system to utilize SQL configuration tables, significantly improving performance by implementing a fallback mechanism to reduce the computational overhead.</li>
                  <li>	Implemented stress utilization calculations for fixed income and equity trades, integrating S&P ratings, tenor curves, and settlement timelines to assess pre-settlement risk effectively and produce trade reports.</li>
                </ul>
