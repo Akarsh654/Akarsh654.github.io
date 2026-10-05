@@ -32,8 +32,29 @@ key: page-experience
             <td width="40%"><img src="https://www.hawkesbury.ca/media/com_jbusinessdirectory/pictures/companies/313/cropped-1570733184.png"/></td>
             <td>
                 <h2>Software Developer</h2>
+                <h3> Quark Team </h3>
+                <p><em><b>Jan 2026 - Present</b></em></p>
+              <p><em><b>Roles and Responsibilites: </b></em></p>
+                <ul>
+                  <li> Used GitHub Copilot, Devin, and Claude Code daily to implement agent workflows, debug API integrations,
+                  generate tests, review code, and refactor React and Python components. </li>
+                  <li> Built a React-based multi-agent chatbot with LangGraph and LangChain, reducing analyst time-to-insight
+                  from hours to seconds through natural-language data queries. </li>
+                  <li> Developed supervisor, data, and analysis agents that validate inputs, select among three APIs, construct
+                  payloads using structured outputs, retrieve data, and display an analytical output (e.g. graphs, tables). </li>
+                  <li> Built a RAG policy Q&A pipeline using semantic chunking, pgvector embeddings, and reranking to narrow 15
+                  retrieved candidates to the top 5 citation-backed results. </li>
+                  <li> Evaluated retrieval and generation quality against a golden dataset using faithfulness, precision, recall, and
+                  MRR, including edge cases such as unanswerable queries; enforced claim-level evidence grounding. </li>
+                  <li> Iterated and evaluated prompts and implemented application guardrails and supported SafeAI governance
+                  evaluations, covering input validation, retrieval grounding, context controls and citation enforcement. </li>
+                  <li> Implemented CI/CD pipelines with GitHub Actions to automate build, test, and deployment workflows for the
+                  agents, chatbots and RAG applications on OpenShift.</li>
+                 </ul>
+
+
                 <h3>Market, Credit, Counterparty Risk (MCCR) Team, Capital Markets</h3>
-                <p><em><b>Sept 2023 - Present</b></em></p>
+                <p><em><b>Sept 2023 - Dec 2025</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
                  <li> Implemented an ETL pipeline in Java utilizing Spring Boot to facilitate seamless data extraction and loading.</li>
