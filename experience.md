@@ -32,7 +32,7 @@ key: page-experience
             <td width="40%"><img src="https://www.hawkesbury.ca/media/com_jbusinessdirectory/pictures/companies/313/cropped-1570733184.png"/></td>
             <td>
                 <h2>Software Developer</h2>
-                <h3> Quark Team </h3>
+                <h3> Quark Team, Royal Bank of Canada </h3>
                 <p><em><b>Jan 2026 - Present</b></em></p>
               <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
@@ -53,7 +53,7 @@ key: page-experience
                  </ul>
 
 
-                <h3>Market, Credit, Counterparty Risk (MCCR) Team, Capital Markets</h3>
+                <h3>Market, Credit, Counterparty Risk (MCCR) Team, Royal Bank of Canada</h3>
                 <p><em><b>Sept 2023 - Dec 2025</b></em></p>
                 <p><em><b>Roles and Responsibilites: </b></em></p>
                 <ul>
